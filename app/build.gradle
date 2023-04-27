@@ -8,8 +8,8 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.androidstudio_1"
-        minSdk 27
+        applicationId " ru.netology.nmedia"
+        minSdk 23
         targetSdk 32
         versionCode 1
         versionName "1.0"
